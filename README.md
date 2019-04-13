@@ -5,4 +5,5 @@ lcx                    #Linux 版本的lcx，已经编译好了，`chmod +x lcx 
 lcx.exe                #端口转发工具
 TV_getpass.exe         #TeamViewer密码获取
 superdic-cr.exe        #字典生成
+cmd.reg                #右键选择文件夹或文件，在该处打开cmd
 ```
