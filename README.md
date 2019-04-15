@@ -6,4 +6,6 @@ lcx.exe                #端口转发工具
 TV_getpass.exe         #TeamViewer密码获取
 superdic-cr.exe        #字典生成
 cmd.reg                #右键选择文件夹或文件，在该处打开cmd
+
+portscanner.py         #扫描常见的危险端口，可配合proxychains 扫内网端口
 ```
