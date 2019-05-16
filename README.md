@@ -19,3 +19,10 @@ lbd                    #从kaki 复制出来的，检测目标是否负载均衡
 ```
 portscanner.py         #扫描常见的危险端口，可配合proxychains 扫内网端口
 ```
+
+### PHP
+当PHP禁用命令函数时（php.ini 中用 disable_functions），把下面的两个文件上传到服务器，再访问bypass_disablefunc.php会有详细的使用介绍
+```
+bypass_disablefunc.php      
+bypass_disablefunc_x64.so
+```
