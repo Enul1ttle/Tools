@@ -18,7 +18,7 @@ lbd                    #从kaki 复制出来的，检测目标是否负载均衡
 ### 跨平台
 ```
 portscanner.py         #扫描常见的危险端口，可配合proxychains 扫内网端口
-BaiDuUrlSpider.py   #百度url采集，在他原项目的基础上改为python3运行，并且增加去重功能
+BaiDuUrlSpider.py      #百度url采集，在他原项目的基础上改为python3运行，并且增加去重功能
 ```
 
 ### PHP
